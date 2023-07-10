@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web application development
 - 📫 I'm currently studying CE(Bachelor Degree) on Seçuk University at Turkey/Konya
-- ❓  If you have any idea do together please tell me also if you any employer please hire me :D
+- ❓  If you have any idea do together please tell me :D
 
 <!---
 mstfklc/mstfklc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
