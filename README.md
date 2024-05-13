@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-I am a 4th year student at Selçuk University Computer Engineering and I have been gaining experience in Rest API development for the last 2 years. During this time, I honed my skills in the design, development and maintenance of APIs. With my education in computer engineering, I constantly increase my skills in putting my theoretical knowledge into practice, producing projects and developing APIs in accordance with industry standards. I continue to learn and develop by combining the knowledge I have acquired during both the training and application phases.
+I am a graduate of Selçuk University Computer Engineering and I have been gaining experience in Rest API development for the last 2.5 years. During this time, I honed my skills in the design, development and maintenance of APIs. With my computer engineering education, I constantly increase my skills in putting my theoretical knowledge into practice, producing projects and developing APIs in accordance with industry standards. I continue to learn and develop by combining the knowledge I have acquired both during the training and application phases.
 
 * 🌍 I'm based in Bursa, Turkey
 * 👀 I’m interested in web development
